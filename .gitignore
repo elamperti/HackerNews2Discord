@@ -1,0 +1,5 @@
+.env
+beacons/*.beacon
+
+package-lock.json
+node_modules
